@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bar.txt in master branch.
+=======
+branch a add a file:bar.txt
+>>>>>>> a
